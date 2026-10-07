@@ -137,20 +137,6 @@ I am especially interested in the intersection between physical engineering syst
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=edetankings&bg_color=0d1117&color=58a6ff&line=ef4444&point=ffffff&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub Contribution Graph"
-/>
-
-</div>
-
----
-
 ## 🔗 LinkedIn
 
 <div align="center">
