@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**edetankings/edetankings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=EDETAN%20KINGSLEY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder&descAlignY=55&color=0:0A66C2,50:2563EB,100:EF4444" width="100%" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Mechatronics+Engineering+%C3%97+Software+Development;Building+digital+products+and+learning+AI%2FML" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+👋 About Me
+I'm Edetan Kingsley, a Mechatronics Engineering student and aspiring Software Engineer.
+I enjoy building useful digital products and learning how software, engineering and intelligent systems can work together.
+🚀 Tech Stack
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,supabase,js&theme=dark" alt="React, TypeScript, Supabase and JavaScript" />
+
+</div>
+
+📚 Currently Learning
+Machine Learning · NLP · Deep Learning · LLMs
+📊 GitHub
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=edetankings&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+
+</div>
+
+🤝 LinkedIn
+<div align="center">
+
+<a href="https://www.linkedin.com/in/eboigbe-edetan-255ba325b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EF4444,50:2563EB,100:0A66C2" width="100%" />
